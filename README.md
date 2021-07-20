@@ -1,4 +1,4 @@
-### 나 유승희. 오늘만 산다.
+### 👧 나 유승희. 오늘만 산다.
 
 <!--
 **JuneSHYoo/JuneSHYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
