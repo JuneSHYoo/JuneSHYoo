@@ -1,11 +1,9 @@
 ### 👧 About Me
-[![CV Badge](https://img.shields.io/badge/CV-D14836?style=flat&logo=AwesomeLists&logoColor=white)](https://github.com/JuneSHYoo/JuneSHYoo/blob/main/cv_%EC%9C%A0%EC%8A%B9%ED%9D%AC.pdf)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=juneyo0823)](https://solved.ac/juneyo0823)
 
 <!--
 
