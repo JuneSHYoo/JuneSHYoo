@@ -37,8 +37,8 @@
 
 ### 📎 More About Me
 
- 📄 [CV (PDF)](./cv.pdf)
- 📁 [Portfolio (PDF)](./portfolio.pdf)
+ 📄 [CV (PDF)](./유승희_CV.pdf)
+ 📁 [Portfolio (PDF)](./유승희_Portfolio.pdf)
 
 
 
