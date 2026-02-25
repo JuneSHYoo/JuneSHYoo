@@ -14,6 +14,7 @@
 ---
 
 ### 💼 Work Experience
+- **Bespin Global** (AXD본부 GenAI Engineer) · 2026.02.23 ~ 
 - **엔제이원 컴퍼니** (AIA SAM Project) · 2025.08.04 ~ 2026.02.03  
 - **KT DS** (ICT사업본부 ICIS Tr) · 2023.01.02 ~ 2024.09.14
 
